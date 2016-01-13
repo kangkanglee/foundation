@@ -66,6 +66,7 @@ Question & Answer
 > 可以看到~/.gitconfig文件，会多了一项：
 
 > `[credential]
->     helper = store`
+  helper = store`
+
 ---
 
