@@ -40,3 +40,32 @@ Initialize the folder in which you want to place the repository
 Clone a repository
 
 > `git clone git://github.com/your_account/aimed_repo.git`
+
+---
+Question & Answer
+
+**The way to avoid enter the password repeatly.**
+> linux下.
+
+> 在~/下， touch创建文件 .git-credentials：
+
+> touch .git-credentials
+ 
+> \#用vim编辑此文件
+
+> vim .git-credentials
+ 
+> \#输入内容格式
+
+> https://username:password@github.com
+
+> 在终端下执行
+
+> git config --global credential.helper store
+
+> 可以看到~/.gitconfig文件，会多了一项：
+
+> `[credential]
+>     helper = store`
+---
+
