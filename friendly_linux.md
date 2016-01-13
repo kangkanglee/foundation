@@ -20,7 +20,7 @@ The function of Linux is listed as below:
 
 -- and more...
 
-
+---
 ## Web Browser
 
 Firefox is more convenient.
