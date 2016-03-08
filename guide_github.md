@@ -39,7 +39,7 @@ Initialize the folder in which you want to place the repository
 
 Clone a repository
 
-> `git clone git://github.com/your_account/aimed_repo.git`
+> `git clone git@github.com/your_account:aimed_repo.git`
 
 ---
 ## Question & Answer
