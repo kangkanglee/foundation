@@ -11,4 +11,3 @@ The development tools and environmets which I love are listed as follow:
 > * Vi - text editor
 > * markdown - a tool to organize words in a easy way
 
-There are so much to study...
